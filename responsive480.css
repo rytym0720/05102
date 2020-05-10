@@ -21,7 +21,7 @@ margin-top: 0;
 
 .topword{
   font-size: 15px;
-  max-width: 480px;
+  max-width: 375px;
   color:darkgrey;
 justify-content: space-between;
 margin: 0 auto;
@@ -54,7 +54,7 @@ li a{
 }
 
 nav{
-  position: absolute;left: 400px;top:-70px;
+  position: absolute;left: 300px;top:-70px;
   margin-bottom: 10px;
   padding: 10px;
   }
@@ -82,7 +82,7 @@ font-size: 20px;
 padding:200px -80px 80px 0;
 height: 280px;
 width: 100%;
-max-width: 1000px;
+max-width: 375px;
 /* background-color: white; */
 }
 
@@ -152,7 +152,7 @@ text-align: center;
   }
 
   .port{
-    width: 400px;
+    width: 300px;
   }
 
 .item h5{
@@ -171,7 +171,7 @@ text-align: center;
  margin-top: 0%;
  margin-bottom: 0%;
  text-align: center;
- max-width: 480px;
+ max-width: 375px;
  margin-left: auto;
  margin-right: auto;
 }
